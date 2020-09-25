@@ -1,0 +1,16 @@
+Package: cwdata
+Title: Communicating with Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Panagiotis",
+           family = "Stylianos",
+           role = c("aut", "cre"),
+           email = "pete.styl@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A project created during ETC5523 tutorial. Contains data and resources from the lectures
+             and tutorieals.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
