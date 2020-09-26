@@ -8,7 +8,7 @@ Authors@R:
            email = "pete.styl@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: A project created during ETC5523 tutorial. Contains data and resources from the lectures
-             and tutorieals.
+             and tutorials.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
