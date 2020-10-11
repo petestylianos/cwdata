@@ -1,6 +1,6 @@
 Package: cwdata
 Title: Communicating with Data
-Version: 0.0.0.9000
+Version: 1.0.0
 Authors@R: 
     person(given = "Panagiotis",
            family = "Stylianos",
@@ -20,4 +20,11 @@ Depends:
     R (>= 2.10)
 Imports: 
     tibble,
-    dplyr
+    dplyr,
+    tsibble,
+    rvest
+Suggests: 
+    colorfindr,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
